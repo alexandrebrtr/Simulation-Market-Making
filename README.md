@@ -1,0 +1,1 @@
+Voici un programme pour simuler un mini système de market making en Python, basé sur le concept du market maker passif : il place des ordres limit d'achat et de vente autour du prix moyen pour capturer le spread.
